@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "e2e": "cypress open"
+    "e2e:open": "cypress open",
+    "e2e": "cypress run --e2e"
   },
   "devDependencies": {
     "@faker-js/faker": "^7.6.0",
