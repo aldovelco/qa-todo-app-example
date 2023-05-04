@@ -3,6 +3,7 @@
     "e2e": "cypress open"
   },
   "devDependencies": {
+    "@faker-js/faker": "^7.6.0",
     "cypress": "^12.11.0"
   }
 }
